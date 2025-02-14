@@ -1,1 +1,26 @@
+Descomposición:
+1. Declarar las variables “r” y “pi”
+2. Asignar a “pi” una constante (al menos 4 decimales), y a “r” un valor deseado.
+3. Calcular el área de un círculo con los datos obtenidos.
+
+Patrones:
+1.	Validación de la variable “r” (“r” ≠≤ 0)
+Abstracción:
+1.	Variables “r” y “pi”.
+2.	Cálculo del área de un círculo.
+Algoritmo:
+Inicio
+1.	Declarar la variable “r”
+2.	Declarar la variable “pi”
+3.	Asignar a “pi” el valor de 3.1416
+4.	LEER “r”.
+•	Si “r” > 0
+-	ESCRIBIR “Valor aceptado”.
+•	Si “r” = 0 || “r” < 0
+-	ESCRIBIR “Valor no aceptado”
+-	Repetir el proceso.
+5.	CALCULAR “á” = (“pi”) ×(“r”) ^2
+6.	ESCRIBIR “El área de su círculo es “á”.”
+Fin
+
 
