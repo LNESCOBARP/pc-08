@@ -1,0 +1,14 @@
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\PrimerParcial-Nicolle-Escobar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\PrimerParcial-Nicolle-Escobar.AssemblyInfoInputs.cache
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\PrimerParcial-Nicolle-Escobar.AssemblyInfo.cs
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\PrimerParcial-Nicolle-Escobar.csproj.CoreCompileInputs.cache
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\bin\Debug\net9.0\PrimerParcial-Nicolle-Escobar.exe
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\bin\Debug\net9.0\PrimerParcial-Nicolle-Escobar.deps.json
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\bin\Debug\net9.0\PrimerParcial-Nicolle-Escobar.runtimeconfig.json
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\bin\Debug\net9.0\PrimerParcial-Nicolle-Escobar.dll
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\bin\Debug\net9.0\PrimerParcial-Nicolle-Escobar.pdb
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\PrimerParcial-Nicolle-Escobar.dll
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\refint\PrimerParcial-Nicolle-Escobar.dll
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\PrimerParcial-Nicolle-Escobar.pdb
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\PrimerParcial-Nicolle-Escobar.genruntimeconfig.cache
+C:\Users\Nix\Desktop\PrimerParcial-Nicolle-Escobar\obj\Debug\net9.0\ref\PrimerParcial-Nicolle-Escobar.dll
