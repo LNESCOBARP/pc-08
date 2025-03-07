@@ -1,0 +1,14 @@
+C:\Users\Nix\Desktop\Semana 7\bin\Debug\net9.0\Semana 7.exe
+C:\Users\Nix\Desktop\Semana 7\bin\Debug\net9.0\Semana 7.deps.json
+C:\Users\Nix\Desktop\Semana 7\bin\Debug\net9.0\Semana 7.runtimeconfig.json
+C:\Users\Nix\Desktop\Semana 7\bin\Debug\net9.0\Semana 7.dll
+C:\Users\Nix\Desktop\Semana 7\bin\Debug\net9.0\Semana 7.pdb
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\Semana 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\Semana 7.AssemblyInfoInputs.cache
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\Semana 7.AssemblyInfo.cs
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\Semana 7.csproj.CoreCompileInputs.cache
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\Semana 7.dll
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\refint\Semana 7.dll
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\Semana 7.pdb
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\Semana 7.genruntimeconfig.cache
+C:\Users\Nix\Desktop\Semana 7\obj\Debug\net9.0\ref\Semana 7.dll
