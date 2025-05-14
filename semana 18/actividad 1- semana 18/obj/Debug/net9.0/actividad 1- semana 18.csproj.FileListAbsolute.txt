@@ -1,0 +1,14 @@
+C:\Users\Nix\Desktop\actividad 1- semana 18\bin\Debug\net9.0\actividad 1- semana 18.exe
+C:\Users\Nix\Desktop\actividad 1- semana 18\bin\Debug\net9.0\actividad 1- semana 18.deps.json
+C:\Users\Nix\Desktop\actividad 1- semana 18\bin\Debug\net9.0\actividad 1- semana 18.runtimeconfig.json
+C:\Users\Nix\Desktop\actividad 1- semana 18\bin\Debug\net9.0\actividad 1- semana 18.dll
+C:\Users\Nix\Desktop\actividad 1- semana 18\bin\Debug\net9.0\actividad 1- semana 18.pdb
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\actividad 1- semana 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\actividad 1- semana 18.AssemblyInfoInputs.cache
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\actividad 1- semana 18.AssemblyInfo.cs
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\actividad 1- semana 18.csproj.CoreCompileInputs.cache
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\actividad 1- semana 18.dll
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\refint\actividad 1- semana 18.dll
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\actividad 1- semana 18.pdb
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\actividad 1- semana 18.genruntimeconfig.cache
+C:\Users\Nix\Desktop\actividad 1- semana 18\obj\Debug\net9.0\ref\actividad 1- semana 18.dll
